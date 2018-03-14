@@ -1,0 +1,2 @@
+# goldshift
+Scapeshift Goldfish Script
